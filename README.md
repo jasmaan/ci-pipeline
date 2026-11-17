@@ -8,8 +8,6 @@ Uses Node.js, Express, Mocha, Docker, GitHub Actions
 
 ## Running locally
 
-​```
-npm install
-npm start    # on http://localhost:3000
-npm test     # runs the tests
-​```
+- npm install
+- npm start    # on http://localhost:3000
+- npm test     # runs the tests
